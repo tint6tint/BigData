@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<jardesc>
+    <jar path="C:/Users/Johannes (Tyo&amp;Opisk)/Desktop/test.jar"/>
+    <options buildIfNeeded="true" compress="true" descriptionLocation="/hadoop/build.jardesc" exportErrors="true" exportWarnings="true" includeDirectoryEntries="false" overwrite="false" saveDescription="true" storeRefactorings="false" useSourceFolders="false"/>
+    <storedRefactorings deprecationInfo="true" structuralOnly="false"/>
+    <selectedProjects/>
+    <manifest generateManifest="true" mainClassHandleIdentifier="=hadoop/src\/main\/java&lt;chi.jyu.fi.big_data.hadoop{MainClass.java[MainClass" manifestLocation="" manifestVersion="1.0" reuseManifest="false" saveManifest="false" usesManifest="true">
+        <sealing sealJar="false">
+            <packagesToSeal/>
+            <packagesToUnSeal/>
+        </sealing>
+    </manifest>
+    <selectedElements exportClassFiles="true" exportJavaFiles="false" exportOutputFolder="false">
+        <javaElement handleIdentifier="=hadoop/src\/main\/java"/>
+        <file path="/hadoop/.classpath"/>
+        <javaElement handleIdentifier="=hadoop/src\/test\/java"/>
+        <file path="/hadoop/.project"/>
+        <file path="/hadoop/.gitignore"/>
+        <file path="/hadoop/pom.xml"/>
+        <folder path="/hadoop/target"/>
+        <folder path="/hadoop/src"/>
+    </selectedElements>
+</jardesc>
